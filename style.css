@@ -1,0 +1,19 @@
+body{
+    background-color: tomato;
+}
+.container{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#timer{
+    color: whitesmoke !important;
+    font-size: 10rem;
+}
+#status{
+    font-size: 4rem;
+}
+#title{
+    font-size:3rem;
+}
